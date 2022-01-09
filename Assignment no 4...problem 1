@@ -1,0 +1,7 @@
+#program
+
+x = lambda no : no+25
+print(x(10))
+
+# result
+35
